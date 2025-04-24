@@ -175,7 +175,7 @@ MIT License - See [LICENSE](LICENSE) for full details.
 
 ## 📬 Contact
 For support or inquiries:
-- GitHub Issues: [https://github.com/AbhivirSingh/Roostoo-Trading-Bot/issues](https://github.com/AbhivirSingh/Roostoo-Trading-Bot/issues)
+- GitHub Issues: [https://github.com/ViswanadhChowdary39/TRADING-BOT]
 - Email: [vishuchowdary399@gmail.com]
 
 5. **Added Potential Features**:
