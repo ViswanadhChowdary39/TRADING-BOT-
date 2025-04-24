@@ -1,6 +1,5 @@
 # Roostoo Trading Bot - Advanced Cryptocurrency Trading Simulator
 
-![Trading Bot Concept](https://via.placeholder.com/800x400?text=Roostoo+Trading+Bot+Visualization) *(Consider adding an actual diagram or logo here)*
 
 ## 🔍 Overview
 The Roostoo Trading Bot is a sophisticated algorithmic trading system designed for cryptocurrency markets. It provides a complete simulation environment using the Roostoo mock API (https://mock-api.roostoo.com) to test and refine trading strategies with real-market conditions without financial risk.
@@ -175,7 +174,7 @@ MIT License - See [LICENSE](LICENSE) for full details.
 
 ## 📬 Contact
 For support or inquiries:
-- GitHub Issues: [https://github.com/ViswanadhChowdary39/TRADING-BOT]
+- GitHub Issues: [[https://github.com/ViswanadhChowdary39/TRADING-BOT](https://github.com/ViswanadhChowdary39/TRADING-BOT-/tree/main)]
 - Email: [vishuchowdary399@gmail.com]
 
 5. **Added Potential Features**:
